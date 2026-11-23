@@ -14,5 +14,4 @@ This dataset is distributed under the **Creative Commons Attribution 4.0 Interna
 
 ## Modifications
 * `data/raw/`: Unmodified original files as downloaded from Figshare.
-* `data/processed/`: (Generated via `src/dataset.py`) Contains the cleaned sequences and train/test splits formatted for PyTorch.
-
+* `data/processed/`: (Generated via `src/dataset.py`) Contains cleaned sequences and train/test splits formatted for PyTorch.
